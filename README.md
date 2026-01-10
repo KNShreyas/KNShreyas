@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=knshreyas&label=Profile%20views&color=0e75b6&style=flat" alt="knshreyas" /> </p>
 
-- 🔭 I’m currently working on **Premier League(Java backend)**
+- 🔭 I’m currently working on **Premier League(Java backend Project)**
 
 - 🌱 I’m currently learning **Spring Boot Advanced Concepts, REST API Best Practices, SQL Optimization, Basic Docker**
 
